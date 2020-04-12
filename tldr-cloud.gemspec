@@ -2,12 +2,12 @@
 
 Gem::Specification.new do |spec|
   spec.name          = "tldr-cloud"
-  spec.version       = "1.0"
-  spec.authors       = ["tldr cloud"]
+  spec.version       = "0.1"
+  spec.authors       = ["schiluka"]
   spec.email         = ["tldrcloud@gmail.com"]
 
   spec.summary       = %q{Short and concise information on cloud services}
-  spec.homepage      = "https://github.com/schiluka"
+  spec.homepage      = "https://github.com/tldrcloud/tldrcloud.github.io"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r{^(assets|bin|_layouts|_includes|lib|Rakefile|_sass|LICENSE|README)}i) }
