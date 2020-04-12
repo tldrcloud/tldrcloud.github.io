@@ -1,3 +1,3 @@
-# tldrcloud.github.io
+## tl;dr cloud
 
 tl;dr cloud

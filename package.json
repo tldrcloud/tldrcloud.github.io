@@ -1,0 +1,19 @@
+{
+  "name": "tldrcloud",
+  "version": "1.0",
+  "description": "Short and concise information on cloud services",
+  "repository": "tldrcloud/tldrcloud.github.io",
+  "license": "MIT",
+  "bugs": "https://github.com/tldrcloud/tldrcloud.github.io/issues",
+  "devDependencies": {
+    "stylelint": "^10.0.1",
+    "stylelint-config-primer": "^8.0.0",
+    "stylelint-selector-no-utility": "^4.0.0"
+  },
+  "dependencies": {
+    "@primer/css": "^12.7.0"
+  },
+  "scripts": {
+    "test": "stylelint '**/*.scss'"
+  }
+}
